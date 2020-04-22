@@ -4,7 +4,7 @@
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta name="generator" content="PhpSpreadsheet, https://github.com/PHPOffice/PhpSpreadsheet">
       <meta name="author" content="user" />
-    <style type="text/css">
+      <style type="text/css">
       html { font-family:Calibri, Arial, Helvetica, sans-serif; font-size:11pt; background-color:white }
       a.comment-indicator:hover + div.comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em }
       a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em }
